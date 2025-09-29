@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkhalfday.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkhalfday.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkhalfday.com/collections/variety-packs.atom"/>
+  <title>Halfday Iced Tea</title>
+  <updated>2025-02-24T14:00:38-05:00</updated>
+  <author>
+    <name>Halfday Iced Tea</name>
+  </author>
+  <entry>
+    <id>https://drinkhalfday.com/products/8161989198024</id>
+    <published>2025-02-24T14:00:38-05:00</published>
+    <updated>2025-02-24T14:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/refresher-variety"/>
+    <title>Refresher Variety</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/Frame_1000004686.png?v=1740036282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8161989198024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>REFVAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8161996603592</id>
+    <published>2025-02-14T01:55:05-05:00</published>
+    <updated>2025-02-14T01:55:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/peach-lemon"/>
+    <title>Peach &amp; Lemon</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/Frame_1000004687.png?v=1740036303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8161996603592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>PLVAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8161919664328</id>
+    <published>2025-02-14T01:55:04-05:00</published>
+    <updated>2025-02-14T01:55:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/southern-variety"/>
+    <title>Southern Variety</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/classic-flavors_791a128d-889a-4e45-a1f1-7700d62c1d22.png?v=1740036171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8161919664328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>SVVAR12CK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143536226504</id>
+    <published>2025-02-05T11:22:16-05:00</published>
+    <updated>2025-02-05T11:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/fan-favorites"/>
+    <title>Fan Favorites</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/Frame_1000004685.png?v=1740036051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143536226504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>4VAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143535931592</id>
+    <published>2025-02-05T11:22:16-05:00</published>
+    <updated>2025-02-05T11:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/fruity-variety"/>
+    <title>Fruity Variety</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/classic-flavors_5d6c11b4-d6d3-4e50-96d1-0f5f0c77636e.png?v=1740036013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143535931592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>FVAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143535603912</id>
+    <published>2025-02-05T11:22:15-05:00</published>
+    <updated>2025-02-05T11:22:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/classic-variety"/>
+    <title>Classic Variety</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/classic-flavors_0c64b16e-d75a-4d39-9420-981406319734.png?v=1740035996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>YGroup_varietypack</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143535603912</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>VAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkhalfday.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkhalfday.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkhalfday.com/collections/all.atom"/>
+  <title>Halfday Iced Tea</title>
+  <updated>2025-09-15T19:59:05-04:00</updated>
+  <author>
+    <name>Halfday Iced Tea</name>
+  </author>
+  <entry>
+    <id>https://drinkhalfday.com/products/8239931195592</id>
+    <published>2025-09-15T19:59:05-04:00</published>
+    <updated>2025-09-15T19:59:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/half-half-6x4-24-pack-case-ss"/>
+    <title>Half &amp; Half 6x4 24 Pack Case - SS</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/CLASSIC_HALF_HALF_12e15cff-4dcc-4a1b-af45-282d94497264.png?v=1740035800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b8b60e4c9e900c980b131" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b8b60e4c9e900c980b131" data-shogun-page-version-id="608b8b60e4c9e900c980b130" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8b60e4c9e900c980b132" data-region="main">
+<div id="s-97aaac7c-5d36-4e52-9034-559eab9f0cd9" class="shg-c">
+<div class="shogun-root" data-shogun-id="6089cc697fe49600d05ac2e9" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="6089cc697fe49600d05ac2e9" data-shogun-page-version-id="6089cc697fe49600d05ac2e8" data-shogun-platform-type="shopify" data-shogun-variant-id="6089cc697fe49600d05ac2ea" data-region="main">
+<div id="s-89d3e684-7582-4438-8790-1469f7b75c93" class="shg-c">
+<div class="shogun-root" data-shogun-id="608843c24c755b00d8453e95" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608843c24c755b00d8453e95" data-shogun-page-version-id="608843c24c755b00d8453e94" data-shogun-platform-type="shopify" data-shogun-variant-id="608843c24c755b00d8453e96" data-region="main">
+<div id="s-15eece3a-a7a8-4021-ab31-0d147883e85f" class="shg-c">
+<meta charset="utf-8">24 Pack (6x4) Half &amp; Half Iced Tea</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8239931195592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.88</s:price>
+      <s:sku>HIT24PCK</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8232553021640</id>
+    <published>2025-08-13T11:22:12-04:00</published>
+    <updated>2025-08-13T11:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/peach-pins-bag-1"/>
+    <title>Peach Pins - Bag</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peach Pins - Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8232553021640</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0027</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8232552104136</id>
+    <published>2025-08-13T11:07:56-04:00</published>
+    <updated>2025-08-13T11:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/halfday-tan-w-green-brim-hat"/>
+    <title>Halfday Tan W/Green Brim Hat</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Tan W/Green Brim Hat</p>
+<p>One Size Fits All</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8232552104136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>SWG0048</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219939274952</id>
+    <published>2025-06-18T02:32:22-04:00</published>
+    <updated>2025-06-18T02:32:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/lemon-pins-bag"/>
+    <title>Lemon Pins - Bag</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon Pins - Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219939274952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0028</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219939569864</id>
+    <published>2025-06-18T02:24:48-04:00</published>
+    <updated>2025-06-18T02:24:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/peach-pins-bag"/>
+    <title>Halfday Stickers</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halfday Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219939569864</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>SWG0050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219924431048</id>
+    <published>2025-06-18T01:36:25-04:00</published>
+    <updated>2025-06-18T01:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/womens-marmot-black-jacket-m"/>
+    <title>Women&apos;s Marmot Black Jacket- M</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Women's Marmot Black Jacket- M</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219924431048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219923644616</id>
+    <published>2025-06-18T01:36:25-04:00</published>
+    <updated>2025-06-18T01:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/womens-marmot-black-jacket-s"/>
+    <title>Women&apos;s Marmot Black Jacket- S</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Women's Marmot Black Jacket- S</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219923644616</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219916468424</id>
+    <published>2025-06-18T01:36:24-04:00</published>
+    <updated>2025-06-18T01:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/mens-marmot-black-jacket-xxl"/>
+    <title>Mens Marmot Black Jacket- XXL</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Mens Marmot Black Jacket- XXL</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219916468424</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219916173512</id>
+    <published>2025-06-18T01:36:24-04:00</published>
+    <updated>2025-06-18T01:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/mens-marmot-black-jacket-xl"/>
+    <title>Mens Marmot Black Jacket- XL</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Mens Marmot Black Jacket- XL</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219916173512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219915583688</id>
+    <published>2025-06-18T01:36:23-04:00</published>
+    <updated>2025-06-18T01:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/mens-marmot-black-jacket-l"/>
+    <title>Mens Marmot Black Jacket- L</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Mens Marmot Black Jacket- L</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219915583688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219915452616</id>
+    <published>2025-06-18T01:36:23-04:00</published>
+    <updated>2025-06-18T01:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/mens-marmot-black-jacket-m"/>
+    <title>Mens Marmot Black Jacket- M</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Mens Marmot Black Jacket- M</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219915452616</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku/>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8219910209736</id>
+    <published>2025-06-18T01:36:23-04:00</published>
+    <updated>2025-06-18T01:36:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/mens-marmot-black-jacket-s"/>
+    <title>Mens Marmot Black Jacket- S</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">Mens Marmot Black Jacket- S</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8219910209736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176552411336</id>
+    <published>2025-06-17T16:45:43-04:00</published>
+    <updated>2025-06-17T16:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-xxxlarge-ss"/>
+    <title>White Halfday T-Shirt, XXXLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176552411336</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0012</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176551919816</id>
+    <published>2025-06-17T16:45:43-04:00</published>
+    <updated>2025-06-17T16:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-xxlarge-ss"/>
+    <title>White Halfday T-Shirt, XXLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176551919816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0011</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176551428296</id>
+    <published>2025-06-17T16:45:42-04:00</published>
+    <updated>2025-06-17T16:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-large-ss-copy"/>
+    <title>White Halfday T-Shirt, XLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176551428296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0010</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176482746568</id>
+    <published>2025-06-17T16:45:42-04:00</published>
+    <updated>2025-06-17T16:45:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-large-ss"/>
+    <title>White Halfday T-Shirt, Large</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176482746568</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0009</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176482681032</id>
+    <published>2025-06-17T16:45:41-04:00</published>
+    <updated>2025-06-17T16:45:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-medium-ss"/>
+    <title>White Halfday T-Shirt, Medium</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176482681032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0008</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8129827242184</id>
+    <published>2025-06-17T16:45:41-04:00</published>
+    <updated>2025-06-17T16:45:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/white-halfday-t-shirt-ss-copy"/>
+    <title>White Halfday T-Shirt, Small</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-shogun-platform-type="shopify" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-id="608b887e53a01c00e5100684" class="shogun-root">
+<div class="shg-c" id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday White T-Shirt without a pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8129827242184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0007</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8129823080648</id>
+    <published>2025-06-17T16:44:28-04:00</published>
+    <updated>2025-06-17T16:44:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/black-halfday-t-shirt-ss"/>
+    <title>Black Halfday T-Shirt, Small</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Black T-Shirt without pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8129823080648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0001</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143528460488</id>
+    <published>2025-06-10T08:01:08-04:00</published>
+    <updated>2025-06-10T08:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/tropical-tea"/>
+    <title>Tropical Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/TROPICAL_TEA_1.png?v=1737364178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143528460488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8215116120264</id>
+    <published>2025-06-09T13:19:09-04:00</published>
+    <updated>2025-06-09T13:19:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/halfday-balance-board"/>
+    <title>Halfday Balance Board</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8215116120264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0047</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176557097160</id>
+    <published>2025-06-04T14:49:17-04:00</published>
+    <updated>2025-06-04T14:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/black-halfday-t-shirt-xxxlarge-ss"/>
+    <title>Black Halfday T-Shirt, XXXLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Black T-Shirt without pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176557097160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0006</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176556769480</id>
+    <published>2025-06-04T14:49:17-04:00</published>
+    <updated>2025-06-04T14:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/black-halfday-t-shirt-xxlarge-ss"/>
+    <title>Black Halfday T-Shirt, XXLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Black T-Shirt without pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176556769480</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0005</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176556474568</id>
+    <published>2025-06-04T14:49:16-04:00</published>
+    <updated>2025-06-04T14:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/black-halfday-t-shirt-xlarge-ss"/>
+    <title>Black Halfday T-Shirt, XLarge</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Black T-Shirt without pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176556474568</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0004</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8176556015816</id>
+    <published>2025-06-04T14:49:16-04:00</published>
+    <updated>2025-06-04T14:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/black-halfday-t-shirt-large-ss"/>
+    <title>Black Halfday T-Shirt, Large</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="608b887e53a01c00e5100684" data-shogun-site-id="58974eae-1024-44af-ad74-e99291b27c33" data-shogun-page-id="608b887e53a01c00e5100684" data-shogun-page-version-id="608b8a1ce4c9e900cf8049ed" data-shogun-platform-type="shopify" data-shogun-variant-id="608b8a1ce4c9e900cf804a8e" data-region="main">
+<div id="s-dff322ae-99f3-47b0-9625-9ba23ac2afd1" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>Halfday Black T-Shirt without pocket</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>sales-sample</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8176556015816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>SWG0003</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

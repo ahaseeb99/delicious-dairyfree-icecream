@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkhalfday.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkhalfday.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkhalfday.com/collections/iced-teas.atom"/>
+  <title>Halfday Iced Tea</title>
+  <updated>2025-06-10T08:01:08-04:00</updated>
+  <author>
+    <name>Halfday Iced Tea</name>
+  </author>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143528460488</id>
+    <published>2025-06-10T08:01:08-04:00</published>
+    <updated>2025-06-10T08:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/tropical-tea"/>
+    <title>Tropical Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/TROPICAL_TEA_1.png?v=1737364178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143528460488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143529214152</id>
+    <published>2025-02-24T14:00:37-05:00</published>
+    <updated>2025-02-24T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/classic-half-half"/>
+    <title>Classic Half &amp; Half</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/CLASSIC_HALF_HALF_12e15cff-4dcc-4a1b-af45-282d94497264.png?v=1740035800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143529214152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>HIT12PCK-V3</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8151000056008</id>
+    <published>2025-02-05T11:22:16-05:00</published>
+    <updated>2025-02-05T11:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/lemon-tea"/>
+    <title>Lemon Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/LEMON_TEA_1_614c57dc-252b-4229-afca-a6f18dcf51eb.png?v=1738139679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>YGroup_lit</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8151000056008</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>LIT12PCK-V3</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143528722632</id>
+    <published>2025-02-05T11:22:14-05:00</published>
+    <updated>2025-02-05T11:22:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/sweet-tea"/>
+    <title>Sweet Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/SWEET_TEA_08fd6926-fcda-48db-b3be-c29eead8a854.png?v=1740035778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>YGroup_sweettea</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143528722632</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>SIT12PCK-V3</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143528034504</id>
+    <published>2025-02-05T11:22:13-05:00</published>
+    <updated>2025-02-05T11:22:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/raspberry-tea"/>
+    <title>Raspberry Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/RASPBERRY_TEA_c7a5256b-2cef-47f8-8202-0cb20d447cf7.png?v=1740035729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>YGroup_rit</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143528034504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>RIT12PCK-V2.5</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143516434632</id>
+    <published>2025-02-05T11:22:13-05:00</published>
+    <updated>2025-02-05T11:22:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/green-tea"/>
+    <title>Green Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/GREEN_TEA_c07c6938-17c9-42dc-8543-13b13d5a0eaa.png?v=1740035693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>YGroup_git</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143516434632</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>GIT12PCK-V2.5</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143502573768</id>
+    <published>2025-02-05T11:22:12-05:00</published>
+    <updated>2025-02-05T11:22:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/peach-tea"/>
+    <title>Peach Tea</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/PEACH_TEA-1.png?v=1740035511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>YGroup_pit</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143502573768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>PIT12PCK-V3</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

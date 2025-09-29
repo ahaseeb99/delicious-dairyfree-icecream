@@ -1,0 +1,131 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * museo:
+ *   - http://typekit.com/eulas/00000000000000007735993f
+ *   - http://typekit.com/eulas/00000000000000007735da03
+ *   - http://typekit.com/eulas/000000000000000077359947
+ *   - http://typekit.com/eulas/00000000000000007735da06
+ *   - http://typekit.com/eulas/000000000000000077359958
+ * museo-sans:
+ *   - http://typekit.com/eulas/00000000000000000000e800
+ *   - http://typekit.com/eulas/00000000000000000000e7fe
+ *   - http://typekit.com/eulas/00000000000000000000e803
+ *   - http://typekit.com/eulas/00000000000000000000e805
+ *   - http://typekit.com/eulas/00000000000000000000e807
+ * museo-slab:
+ *   - http://typekit.com/eulas/00000000000000007735d9a9
+ *   - http://typekit.com/eulas/00000000000000007735d9b4
+ *   - http://typekit.com/eulas/00000000000000007735d9c5
+ *   - http://typekit.com/eulas/00000000000000007735d9d1
+ *   - http://typekit.com/eulas/00000000000000007735d9e2
+ *   - http://typekit.com/eulas/00000000000000007735d9ec
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-01-10 06:58:02 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"museo";
+src:url("af/38974e/00000000000000007735993f/30/l") format("woff2"),url("af/38974e/00000000000000007735993f/30/d") format("woff"),url("af/38974e/00000000000000007735993f/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo";
+src:url("af/fc5cbf/00000000000000007735da03/30/l") format("woff2"),url("af/fc5cbf/00000000000000007735da03/30/d") format("woff"),url("af/fc5cbf/00000000000000007735da03/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo";
+src:url("af/d23205/000000000000000077359947/30/l") format("woff2"),url("af/d23205/000000000000000077359947/30/d") format("woff"),url("af/d23205/000000000000000077359947/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo";
+src:url("af/1fba28/00000000000000007735da06/30/l") format("woff2"),url("af/1fba28/00000000000000007735da06/30/d") format("woff"),url("af/1fba28/00000000000000007735da06/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo";
+src:url("af/12040f/000000000000000077359958/30/l") format("woff2"),url("af/12040f/000000000000000077359958/30/d") format("woff"),url("af/12040f/000000000000000077359958/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-sans";
+src:url("af/635674/00000000000000000000e800/27/l") format("woff2"),url("af/635674/00000000000000000000e800/27/d") format("woff"),url("af/635674/00000000000000000000e800/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-sans";
+src:url("af/620bf8/00000000000000000000e7fe/27/l") format("woff2"),url("af/620bf8/00000000000000000000e7fe/27/d") format("woff"),url("af/620bf8/00000000000000000000e7fe/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-sans";
+src:url("af/a28b50/00000000000000000000e803/27/l") format("woff2"),url("af/a28b50/00000000000000000000e803/27/d") format("woff"),url("af/a28b50/00000000000000000000e803/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-sans";
+src:url("af/e3ca36/00000000000000000000e805/27/l") format("woff2"),url("af/e3ca36/00000000000000000000e805/27/d") format("woff"),url("af/e3ca36/00000000000000000000e805/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-sans";
+src:url("af/9cf49e/00000000000000000000e807/27/l") format("woff2"),url("af/9cf49e/00000000000000000000e807/27/d") format("woff"),url("af/9cf49e/00000000000000000000e807/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/0681f2/00000000000000007735d9a9/30/l") format("woff2"),url("af/0681f2/00000000000000007735d9a9/30/d") format("woff"),url("af/0681f2/00000000000000007735d9a9/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/02c2b0/00000000000000007735d9b4/30/l") format("woff2"),url("af/02c2b0/00000000000000007735d9b4/30/d") format("woff"),url("af/02c2b0/00000000000000007735d9b4/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/c323c3/00000000000000007735d9c5/30/l") format("woff2"),url("af/c323c3/00000000000000007735d9c5/30/d") format("woff"),url("af/c323c3/00000000000000007735d9c5/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/a50f93/00000000000000007735d9d1/30/l") format("woff2"),url("af/a50f93/00000000000000007735d9d1/30/d") format("woff"),url("af/a50f93/00000000000000007735d9d1/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/1c23de/00000000000000007735d9e2/30/l") format("woff2"),url("af/1c23de/00000000000000007735d9e2/30/d") format("woff"),url("af/1c23de/00000000000000007735d9e2/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"museo-slab";
+src:url("af/8bd374/00000000000000007735d9ec/30/l") format("woff2"),url("af/8bd374/00000000000000007735d9ec/30/d") format("woff"),url("af/8bd374/00000000000000007735d9ec/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+.tk-museo { font-family: "museo",serif; }
+.tk-museo-sans { font-family: "museo-sans",sans-serif; }
+.tk-museo-slab { font-family: "museo-slab",serif; }

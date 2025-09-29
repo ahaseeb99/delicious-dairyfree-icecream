@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://drinkhalfday.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://drinkhalfday.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://drinkhalfday.com/collections/half-half.atom"/>
+  <title>Halfday Iced Tea</title>
+  <updated>2025-02-24T14:00:38-05:00</updated>
+  <author>
+    <name>Halfday Iced Tea</name>
+  </author>
+  <entry>
+    <id>https://drinkhalfday.com/products/8161989198024</id>
+    <published>2025-02-24T14:00:38-05:00</published>
+    <updated>2025-02-24T14:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/refresher-variety"/>
+    <title>Refresher Variety</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/Frame_1000004686.png?v=1740036282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8161989198024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>REFVAR12PCK-1</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://drinkhalfday.com/products/8143529214152</id>
+    <published>2025-02-24T14:00:37-05:00</published>
+    <updated>2025-02-24T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://drinkhalfday.com/products/classic-half-half"/>
+    <title>Classic Half &amp; Half</title>
+    <s:type></s:type>
+    <s:vendor>Halfday Tonics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0531/6267/2328/files/CLASSIC_HALF_HALF_12e15cff-4dcc-4a1b-af45-282d94497264.png?v=1740035800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfday Tonics<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gluten-free</s:tag>
+    <s:tag>natural-caffeine</s:tag>
+    <s:tag>new 2025</s:tag>
+    <s:tag>non-carbonated</s:tag>
+    <s:tag>organic-tea</s:tag>
+    <s:tag>paleo</s:tag>
+    <s:variant>
+      <id>https://drinkhalfday.com/products/8143529214152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>HIT12PCK-V3</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>
